@@ -1,0 +1,2597 @@
+
+<!DOCTYPE html>
+<html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head>
+     <title>Money Transfer | International Money Transfer | Western Union</title> 
+     
+    <meta name="keywords" content="">
+    <meta name="description" content="Western Union is a money transfer leader. Gửi tiền online to a bank in select countries or to over 500,000 agent locations worldwide. Fast, convenient, and reliable service.">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">   
+    <link rel="icon" type="image/vnd.microsoft.icon" href="https://www.westernunion.com/etc/designs/wu/favicon.ico">
+    
+
+
+    
+        <script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/foundation/shared.js"></script>
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/granite/lodash/modern.js"></script>
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/foundation/personalization/kernel.js"></script>
+
+             
+    
+    <link rel="stylesheet" href="https://www.westernunion.com/etc/designs/wu/clientlibs.css" type="text/css">
+<script type="text/javascript" src="https://www.westernunion.com/etc/designs/wu/clientlibs.js"></script>
+ 
+    
+
+
+    
+    <!--[if IE]>
+    <script type="text/javascript" src="https://www.westernunion.com/etc/designs/wu/clientlibs/js/PIE.js"></script>
+    <![endif]-->
+
+        
+    
+    
+    
+
+
+
+
+        <!-- This template page verifies if the environment is production or not. Depending on the result the corresponding 
+            search engine crawl attributes are included in the main file's head -->
+    
+        
+
+        
+
+    <!-- START marketing tags -->
+    <link rel="canonical" href="https://www.westernunion.com/VN/en/home.html">
+
+    <!-- END Marketing Tags -->
+
+<script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+<script>!function(e){function a(a){if(a&&a.data&&a.data.boomr_mq)e.BOOMR_mq=e.BOOMR_mq||[],e.BOOMR_mq.push(a.data.boomr_mq)}var t="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,t="https://s2.go-mpulse.net/boomerang/";if(function(){function a(a){e.BOOMR_onload=a&&a.timeStamp||(new Date).getTime()}if(!e.BOOMR||!e.BOOMR.version&&!e.BOOMR.snippetExecuted){e.BOOMR=e.BOOMR||{},e.BOOMR.snippetExecuted=!0;var n,i,r,o=document.createElement("iframe");if(e.addEventListener)e.addEventListener("load",a,!1);else if(e.attachEvent)e.attachEvent("onload",a);o.src="javascript:void(0)",o.title="",o.role="presentation",(o.frameElement||o).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(o,r);try{i=o.contentWindow.document}catch(O){n=document.domain,o.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",i=o.contentWindow.document}i.open()._l=function(){var e=this.createElement("script");if(n)this.domain=n;e.id="boomr-if-as",e.src=t+"T8GD4-PXVWR-9MW97-GAT7V-FQG35",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},i.write("<bo"+'dy onload="document._l();">'),i.close()}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();if(e.addEventListener)e.addEventListener("message",a);var n=e.navigator;if(n&&"serviceWorker"in n&&n.serviceWorker.addEventListener)n.serviceWorker.addEventListener("message",a);!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var a=""=="true"?1:0,t="",n="vp7j4caxyzy4gxdfvo2a-f-c0c09e297-clientnsv4-s.akamaihd.net",i={"ak.v":19,"ak.cp":"192006","ak.ai":parseInt("188342",10),"ak.ol":"0","ak.cr":50,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1d3e45de","ak.r":20734,"ak.a2":a,"ak.m":"b","ak.n":"essl","ak.bpcip":"171.254.158.0","ak.cport":10434,"ak.gh":"104.84.150.13","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":""};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(a){var t="http.initiator";if(a&&(!a[t]||"spa_hard"===a[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script language="javascript">
+function breakOut() {
+    if (self != top && 
+            window.location.href.indexOf("wuintranet")==-1 &&
+            window.location.href.indexOf("wudip")==-1 &&
+            window.location.href.indexOf("wucloud")==-1 &&
+            window.location.href.indexOf("westernunion")==-1 &&
+            window.location.href.indexOf("adobe")==-1)
+      window.open("Not Allowed","_top","");
+}
+</script><style type="text/css"></style><style type="text/css"></style><script src="https://assets.adobedtm.com/b5504cc8f9a8ec27750576da3320a66a94144444/scripts/satellite-5863a5d364746d16d5002494.js"></script><script src="https://assets.adobedtm.com/b5504cc8f9a8ec27750576da3320a66a94144444/s-code-contents-bcbd6c7abc67f9f2211f4ea8f3db1e5a8d63a0cb.js"></script><script src="https://assets.adobedtm.com/b5504cc8f9a8ec27750576da3320a66a94144444/scripts/satellite-5863a60464746d602f002a3f.js"></script></head>
+
+
+
+
+
+
+
+<body onload="breakOut()">
+    <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5e3262df8e78b86ed8abc22c/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+    <!--ls:begin[body]-->
+    <div class="clientcontext parbase"><script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("https://www.westernunion.com/etc/segmentation");
+        CQ_Analytics.ClientContextUtils.init("https://www.westernunion.com/etc/clientcontext/default", "https://www.westernunion.com/content/wucom/Countries/en_VN/home");
+
+        
+    });
+</script>
+</div>
+
+    
+
+
+
+
+
+<span record="'wuPageView', {'pagedata.language':'en','pagedata.country':'VN','pagedata.url':'https://www.westernunion.comhttps://www.westernunion.com/content/wucom/Countries/en_VN/home.html','pagedata.serverName':'www.westernunion.com','pagedata.device':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36','pagedata.datacenter':'WU charlotte'}"></span>
+
+    <!-- global variables for cookie privacy rules -->
+    
+
+
+
+
+    
+
+
+<link rel="stylesheet" href="https://www.westernunion.com/etc/designs/westernunion/stylesheet.css" type="text/css">
+
+
+
+
+
+
+
+
+
+        <!-- This template page verifies if the environment is production or not. Depending on the result the corresponding 
+            search engine crawl attributes are included in the main file's head -->
+    
+        
+
+        
+
+
+
+
+
+
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/westernunion_intl/library_common.js"></script>
+
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/westernunion_intl/wu_template.js"></script>
+
+<script type="text/javascript" src="https://www.westernunion.com/etc/clientlibs/westernunion_intl/wu_widget_intl/wu_home_intl.js"></script>
+
+<script src="https://www.westernunion.com/etc/designs/westernunion/agentlocator/js/agentlocator.js"></script>
+<script src="https://www.westernunion.com/etc/clientlibs/westernunion/widget_common/js/WUAnalyticEventNTCapture.js"></script>
+
+
+
+
+<!-- End PBL-1714 -->
+    <script src="//assets.adobedtm.com/b5504cc8f9a8ec27750576da3320a66a94144444/satelliteLib-e5a029a46ec54c86f5dd80e72d616277755f1966.js"></script>
+
+<!--Naviagation Starts-->
+    <nav class="app_nav">
+      <!--Language,country Nav Bar Starts-->
+      <div class="language-bar hide-for-small">
+        <div class="desktop-language-bar-fix">
+          <!--User Customization Form Starts-->
+          <div class="row">
+            <!--User Options Section-->
+            <div class="desktop-choices only-desktop hide-for-small right">
+              <ul class="app_ul home-links">
+                 
+
+
+
+
+    
+        
+            
+             
+               
+                
+                    
+                    
+                        
+                            <li class="active"><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Khách Hàng</a></li>
+                        
+                        
+                    
+                    
+                    
+               
+                
+                    
+                    
+               
+               
+            
+             
+               
+                
+                    
+                    
+               
+                
+                    
+                    
+                        
+                        
+                            <li><a class="app_anch" href="http://corporate.westernunion.com">About us</a></li>
+                        
+                    
+                    
+                    
+               
+               
+                            
+        
+        
+    
+
+
+ 
+
+
+<style>
+    .active {
+            background-image : none;
+        }
+</style>
+              </ul>
+            </div>
+            <!--END of User Options Section-->
+
+              <!--Country select box and options-->
+                          <!--END of Country select box and options-->
+                 
+                <div id="desktopOnly">
+                
+
+
+
+
+
+     <style>
+        .languagedropdown-wrapper {
+                float:left;
+                width:183px;
+                margin-left:5px;
+            }
+        .countrydropdown-wrapper {
+                float:left;
+                width:183px;
+
+            }
+        .language-bar form.app_form {background:none;}
+    </style>
+<input type="hidden" name="queryPath" id="queryPath" value="https://www.westernunion.com/content/wucom/Countries/en_VN/utils/countrylangboilerplate/jcr:content/parCentre/countrylangdropdown">
+     <input type="hidden" name="defaultcountry" id="defaultcountry" value="VN">
+     <input type="hidden" name="defaultlanguage" id="defaultlanguage" value="en">
+<input type="hidden" name="currResource" id="currResource" value="https://www.westernunion.com/content/wucom/Countries/en_VN/utils/countrylangboilerplate/jcr:content/parCentre/countrylangdropdown">
+ <div class="language-bar"><!--  countrylangboilerplate page UI issue -->
+    
+</div><!--  countrylangboilerplate page UI issue -->
+
+
+
+                </div>
+            
+
+            <!--Language select box and options-->
+            <!--END of Language select box and options-->
+
+
+          </div>
+          <!--END of User Customization Form Starts-->
+        </div>
+      </div>
+            <!--END of Country select box and options-->
+      <!--Main  Naviagtion Starts-->
+      <div class="main-nav">
+        <div class="row">
+          <div class="small-6 large-3 columns imagefield">
+          <!--Western Union Logo-->
+            
+
+
+
+ 
+       
+           <a href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">
+            <img src="https://www.westernunion.com/content/dam/wu/WU_TransitionLogo_MMFB_YELW_SM.png" alt=""></a>
+      
+      
+
+
+
+
+          </div>
+          <div class="small-6 large-9 columns">
+            <div class="only-desktop hide-for-small">
+              <!--Extra Links for user starts-->
+              <ul class="extra-links app_ul">
+                
+
+
+
+    
+        
+            
+            
+            
+                
+            
+            
+               <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Contact us</a></li>
+            
+            
+            
+            
+            
+                 
+                
+                
+            
+            
+            
+                
+            
+            
+            
+            
+               <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Customer care</a></li>
+            
+            
+            
+                 
+                
+                
+            
+
+      
+
+
+
+
+
+
+              </ul>
+              <!--END of Extra Links for user -->
+            </div>
+            <!--Resgister and Login Start-->
+            <ul class="nav app_ul">
+            <!-- 
+              <li>
+                <a class="app_anch" href="#">Register</a>
+              </li>
+              <li>
+                <a class="app_anch" href="#">Log In</a>
+              </li>
+ -->
+
+                                      <li class="mobile-menu show-for-small"> 
+                        <a class="app_anch" href="#"></a> 
+                         </li>
+
+
+            </ul>
+            <!-- END of Resgister and Login -->
+          </div>
+        </div>
+        <div class="hide-for-small row">
+          <div class="large-12">
+            <!--Mega Menu(Grey Tabs) Starts-->
+            <ul class="megamenu app_ul css3Style_ie">
+               
+
+
+
+
+
+    
+        
+            
+            
+            
+                
+
+            
+            
+               <li><a href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233" class="app_anch css3Style_ie">Gửi tiền</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                 
+                
+                
+            
+            
+            
+                
+
+            
+            
+            
+            
+               <li><a href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233" class="app_anch">Nhận tiền</a></li>
+            
+            
+            
+            
+            
+            
+            
+                 
+                
+                
+            
+            
+            
+                
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                 
+                
+                
+            
+            
+            
+                
+
+            
+            
+            
+            
+            
+            
+            
+            
+               <li><a href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233" class="app_anch">Tìm giao dịch</a></li>
+            
+            
+            
+                 
+                
+                
+            
+        
+      
+
+
+
+
+  
+            </ul>
+          <!--END of Mega Menu(Grey Tabs)-->
+          </div>
+        </div>
+      </div>
+       
+      <!--END of Main  Naviagtion-->    
+
+
+      <!--Mobile Menu Panel Starts-->
+        
+      <div class="show-for-small">
+
+        <div class="mobile-menu-list">
+          <!--Close Options for mobile menu -->
+          <div class="close-menu-padding">
+            <a href="#" class="close-menu app_anch"></a>
+           </div>
+            <div class="row">
+
+                                            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <!--Footer Links Starts-->
+                <div class="links">
+                  <h6 class="app_h6">Chuyển tiền</h6>
+                  <ul class="app_ul mobile-home-links">
+                     
+                        
+                             
+                  
+                        
+                         
+                            
+                                 <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Gửi tiền</a></li>
+                            
+                         
+                            
+                         
+                        
+                    
+                
+                    
+                 
+                             
+                  
+                        
+                         
+                            
+                         
+                            
+                                 <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Nhận tiền</a></li>
+                            
+                         
+                        
+                    
+                
+                    
+                 
+            
+                  </ul>
+                </div>
+
+                <div class="links">
+                  <h6 class="app_h6">Công cụ</h6>
+                  <ul class="app_ul mobile-megamenu">
+                    
+                
+                   
+                    
+                    
+                    
+                        
+                            <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Tìm giao dịch</a></li>
+                        
+                    
+                        
+                    
+                        
+                        
+                    
+                    
+                 
+                   
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                        
+                        
+                    
+                    
+                 
+            
+                  </ul>
+                </div>
+
+
+     
+
+    
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+ 
+                
+                      <div class="country_links">
+                        <h6 class="app_h6">Country</h6>     
+                        
+
+
+
+
+
+     <style>
+        .languagedropdown-wrapper {
+                float:left;
+                width:183px;
+                margin-left:5px;
+            }
+        .countrydropdown-wrapper {
+                float:left;
+                width:183px;
+
+            }
+        .language-bar form.app_form {background:none;}
+    </style>
+<input type="hidden" name="queryPath" id="queryPath" value="https://www.westernunion.com/content/wucom/Countries/en_VN/utils/countrylangboilerplate/jcr:content/parCentre/countrylangdropdown">
+     <input type="hidden" name="defaultcountry" id="defaultcountry" value="VN">
+     <input type="hidden" name="defaultlanguage" id="defaultlanguage" value="en">
+<input type="hidden" name="currResource" id="currResource" value="https://www.westernunion.com/content/wucom/Countries/en_VN/utils/countrylangboilerplate/jcr:content/parCentre/countrylangdropdown">
+ <div class="language-bar"><!--  countrylangboilerplate page UI issue -->
+     <form autocomplete="off" action="http://www.westernunion.com/WUCOMWEB/selectCountry.do" method="GET" name="countryLanguageHeaderForm" id="countryLanguageHeaderForm" class="menudropdown custom app_form"> <!--  countrylangboilerplate page UI issue class=custom-->
+     
+     <input type="hidden" name="method" value="load">
+
+     <input type="hidden" name="countryCode" id="countryCode" value="" class="hasPlaceholder">
+
+     <input type="hidden" name="languageCode" id="languageCode" value="" class="hasPlaceholder">
+     
+     
+    <div class="countrydropdown-wrapper"><select name="country" class="changeCountry app_select hidden-field" id="preferredCountry" data-id="1550167291073-qwCgb">
+      <option value="af">Afghanistan</option>
+    <option value="al">Albania</option>
+    <option value="dz">Algeria</option>
+    <option value="as">American Samoa</option>
+    <option value="ao">Angola</option>
+    <option value="ai">Anguilla</option>
+    <option value="ag">Antigua and Barbuda</option>
+    <option value="ar">Argentina</option>
+    <option value="am">Armenia</option>
+    <option value="aw">Aruba</option>
+    <option value="au">Australia</option>
+    <option value="at">Austria</option>
+    <option value="az">Azerbaijan</option>
+    <option value="bs">Bahamas</option>
+    <option value="bh">Bahrain</option>
+    <option value="bd">Bangladesh</option>
+    <option value="bb">Barbados</option>
+    <option value="by">Belarus</option>
+    <option value="be">Belgium</option>
+    <option value="bz">Belize</option>
+    <option value="bj">Benin</option>
+    <option value="bm">Bermuda</option>
+    <option value="bt">Bhutan</option>
+    <option value="bo">Bolivia</option>
+    <option value="ba">Bosnia &amp; Herzegovina</option>
+    <option value="bw">Botswana</option>
+    <option value="br">Brazil</option>
+    <option value="vg">British Virgin Islands</option>
+    <option value="bn">Brunei Darussalam</option>
+    <option value="bg">Bulgaria</option>
+    <option value="bf">Burkina Faso</option>
+    <option value="bi">Burundi</option>
+    <option value="kh">Cambodia</option>
+    <option value="cm">Cameroon</option>
+    <option value="ca">Canada</option>
+    <option value="cv">Cape Verde</option>
+    <option value="ky">Cayman Islands</option>
+    <option value="cf">Central African Republic</option>
+    <option value="td">Chad</option>
+    <option value="cl">Chile</option>
+    <option value="cn">China</option>
+    <option value="co">Colombia</option>
+    <option value="km">Comoros</option>
+    <option value="cg">Congo</option>
+    <option value="ck">Cook Islands</option>
+    <option value="cr">Costa Rica</option>
+    <option value="hr">Croatia</option>
+    <option value="cu">Cuba</option>
+    <option value="c1">Curacao</option>
+    <option value="cy">Cyprus</option>
+    <option value="c2">Cyprus (Northern)</option>
+    <option value="cz">Czech Republic</option>
+    <option value="cd">Dem Rep of Congo</option>
+    <option value="dk">Denmark</option>
+    <option value="dj">Djibouti</option>
+    <option value="dm">Dominica</option>
+    <option value="do">Dominican Republic</option>
+    <option value="ec">Ecuador</option>
+    <option value="eg">Egypt</option>
+    <option value="sv">El Salvador</option>
+    <option value="gq">Equatorial Guinea</option>
+    <option value="er">Eritrea</option>
+    <option value="ee">Estonia</option>
+    <option value="et">Ethiopia</option>
+    <option value="fk">Falkland Islands</option>
+    <option value="fj">Fiji</option>
+    <option value="fi">Finland</option>
+    <option value="fr">France</option>
+    <option value="gf">French Guiana</option>
+    <option value="pf">French Polynesia</option>
+    <option value="ga">Gabon</option>
+    <option value="gm">Gambia</option>
+    <option value="ge">Georgia</option>
+    <option value="de">Germany</option>
+    <option value="gh">Ghana</option>
+    <option value="gi">Gibraltar</option>
+    <option value="gr">Greece</option>
+    <option value="gd">Grenada</option>
+    <option value="gp">Guadeloupe</option>
+    <option value="gu">Guam</option>
+    <option value="gt">Guatemala</option>
+    <option value="gn">Guinea</option>
+    <option value="gw">Guinea-Bissau</option>
+    <option value="gy">Guyana</option>
+    <option value="ht">Haiti</option>
+    <option value="hn">Honduras</option>
+    <option value="hk">Hong Kong</option>
+    <option value="hu">Hungary</option>
+    <option value="is">Iceland</option>
+    <option value="in">India</option>
+    <option value="id">Indonesia</option>
+    <option value="iq">Iraq</option>
+    <option value="ie">Ireland</option>
+    <option value="il">Israel</option>
+    <option value="it">Italy</option>
+    <option value="ci">Ivory Coast</option>
+    <option value="jm">Jamaica</option>
+    <option value="jp">Japan</option>
+    <option value="jo">Jordan</option>
+    <option value="kz">Kazakhstan</option>
+    <option value="ke">Kenya</option>
+    <option value="ki">Kiribati</option>
+    <option value="kr">Korea</option>
+    <option value="k1">Kosovo</option>
+    <option value="kw">Kuwait</option>
+    <option value="kg">Kyrghyz Republic</option>
+    <option value="la">Laos</option>
+    <option value="lv">Latvia</option>
+    <option value="lb">Lebanon</option>
+    <option value="lr">Liberia</option>
+    <option value="ly">Libya</option>
+    <option value="li">Liechtenstein</option>
+    <option value="lt">Lithuania</option>
+    <option value="lu">Luxembourg</option>
+    <option value="mo">Macau</option>
+    <option value="mk">Macedonia</option>
+    <option value="mg">Madagascar</option>
+    <option value="mw">Malawi</option>
+    <option value="my">Malaysia</option>
+    <option value="mv">Maldives</option>
+    <option value="ml">Mali</option>
+    <option value="mt">Malta</option>
+    <option value="mh">Marshall Islands</option>
+    <option value="mq">Martinique</option>
+    <option value="mr">Mauritania</option>
+    <option value="mu">Mauritius</option>
+    <option value="yt">Mayotte</option>
+    <option value="mx">Mexico</option>
+    <option value="fm">Micronesia</option>
+    <option value="md">Moldova</option>
+    <option value="mc">Monaco</option>
+    <option value="mn">Mongolia</option>
+    <option value="me">Montenegro</option>
+    <option value="ms">Montserrat</option>
+    <option value="ma">Morocco</option>
+    <option value="mz">Mozambique</option>
+    <option value="na">Namibia</option>
+    <option value="np">Nepal</option>
+    <option value="nl">Netherlands</option>
+    <option value="nc">New Caledonia</option>
+    <option value="nz">New Zealand</option>
+    <option value="ni">Nicaragua</option>
+    <option value="ne">Niger</option>
+    <option value="ng">Nigeria</option>
+    <option value="nu">Niue</option>
+    <option value="mp">Northern Mariana Islands</option>
+    <option value="no">Norway</option>
+    <option value="om">Oman</option>
+    <option value="pk">Pakistan</option>
+    <option value="pw">Palau</option>
+    <option value="p1">Palestinian Authority</option>
+    <option value="pa">Panama</option>
+    <option value="pg">Papua New Guinea</option>
+    <option value="py">Paraguay</option>
+    <option value="pe">Peru</option>
+    <option value="ph">Philippines</option>
+    <option value="pl">Poland</option>
+    <option value="pt">Portugal</option>
+    <option value="pr">Puerto Rico</option>
+    <option value="qa">Qatar</option>
+    <option value="nr">Republic of Nauru</option>
+    <option value="re">Reunion</option>
+    <option value="ro">Romania</option>
+    <option value="ru">Russia</option>
+    <option value="rw">Rwanda</option>
+    <option value="kn">Saint Kitts and Nevis</option>
+    <option value="lc">Saint Lucia</option>
+    <option value="mf">Saint Martin</option>
+    <option value="vc">Saint Vincent and the Grenadines</option>
+    <option value="ws">Samoa</option>
+    <option value="sa">Saudi Arabia</option>
+    <option value="sn">Senegal</option>
+    <option value="rs">Serbia</option>
+    <option value="sl">Sierra Leone</option>
+    <option value="sg">Singapore</option>
+    <option value="sk">Slovakia</option>
+    <option value="si">Slovenia</option>
+    <option value="sb">Solomon Islands</option>
+    <option value="za">South Africa</option>
+    <option value="es">Spain</option>
+    <option value="lk">Sri Lanka</option>
+    <option value="sd">Sudan</option>
+    <option value="sr">Suriname</option>
+    <option value="se">Sweden</option>
+    <option value="ch">Switzerland</option>
+    <option value="sy">Syria</option>
+    <option value="st">São Tomé and Príncipe</option>
+    <option value="tw">Taiwan</option>
+    <option value="tj">Tajikistan</option>
+    <option value="tz">Tanzania</option>
+    <option value="th">Thailand</option>
+    <option value="tp">Timor-Leste</option>
+    <option value="tg">Togo</option>
+    <option value="to">Tonga</option>
+    <option value="tt">Trinidad &amp; Tobago</option>
+    <option value="tn">Tunisia</option>
+    <option value="tr">Turkey</option>
+    <option value="tm">Turkmenistan</option>
+    <option value="tc">Turks and Caicos Islands</option>
+    <option value="tv">Tuvalu</option>
+    <option value="ug">Uganda</option>
+    <option value="ua">Ukraine</option>
+    <option value="ae">United Arab Emirates</option>
+    <option value="gb">United Kingdom</option>
+    <option value="us">United States</option>
+    <option value="vi">United States Virgin Islands</option>
+    <option value="uy">Uruguay</option>
+    <option value="uz">Uzbekistan</option>
+    <option value="vu">Vanuatu</option>
+    <option value="ve">Venezuela</option>
+    <option value="vn">Vietnam</option>
+    <option value="ye">Yemen</option>
+    <option value="zm">Zambia</option>
+    <option value="zw">Zimbabwe</option>
+  </select>
+  <div class="custom dropdown changeCountry app_select" data-id="1550167291073-qwCgb">
+    <a href="#" class="current">Viet Nam</a>
+    <a href="#" class="selector"></a>
+    <ul>
+        <li>Afghanistan</li>
+      <li>Albania</li>
+      <li>Algeria</li>
+      <li>American Samoa</li>
+      <li>Angola</li>
+      <li>Anguilla</li>
+      <li>Antigua and Barbuda</li>
+      <li>Argentina</li>
+      <li>Armenia</li>
+      <li>Aruba</li>
+      <li>Australia</li>
+      <li>Austria</li>
+      <li>Azerbaijan</li>
+      <li>Bahamas</li>
+      <li>Bahrain</li>
+      <li>Bangladesh</li>
+      <li>Barbados</li>
+      <li>Belarus</li>
+      <li>Belgium</li>
+      <li>Belize</li>
+      <li>Benin</li>
+      <li>Bermuda</li>
+      <li>Bhutan</li>
+      <li>Bolivia</li>
+      <li>Bosnia &amp; Herzegovina</li>
+      <li>Botswana</li>
+      <li>Brazil</li>
+      <li>British Virgin Islands</li>
+      <li>Brunei Darussalam</li>
+      <li>Bulgaria</li>
+      <li>Burkina Faso</li>
+      <li>Burundi</li>
+      <li>Cambodia</li>
+      <li>Cameroon</li>
+      <li>Canada</li>
+      <li>Cape Verde</li>
+      <li>Cayman Islands</li>
+      <li>Central African Republic</li>
+      <li>Chad</li>
+      <li>Chile</li>
+      <li>China</li>
+      <li>Colombia</li>
+      <li>Comoros</li>
+      <li>Congo</li>
+      <li>Cook Islands</li>
+      <li>Costa Rica</li>
+      <li>Croatia</li>
+      <li>Cuba</li>
+      <li>Curacao</li>
+      <li>Cyprus</li>
+      <li>Cyprus (Northern)</li>
+      <li>Czech Republic</li>
+      <li>Dem Rep of Congo</li>
+      <li>Denmark</li>
+      <li>Djibouti</li>
+      <li>Dominica</li>
+      <li>Dominican Republic</li>
+      <li>Ecuador</li>
+      <li>Egypt</li>
+      <li>El Salvador</li>
+      <li>Equatorial Guinea</li>
+      <li>Eritrea</li>
+      <li>Estonia</li>
+      <li>Ethiopia</li>
+      <li>Falkland Islands</li>
+      <li>Fiji</li>
+      <li>Finland</li>
+      <li>France</li>
+      <li>French Guiana</li>
+      <li>French Polynesia</li>
+      <li>Gabon</li>
+      <li>Gambia</li>
+      <li>Georgia</li>
+      <li>Germany</li>
+      <li>Ghana</li>
+      <li>Gibraltar</li>
+      <li>Greece</li>
+      <li>Grenada</li>
+      <li>Guadeloupe</li>
+      <li>Guam</li>
+      <li>Guatemala</li>
+      <li>Guinea</li>
+      <li>Guinea-Bissau</li>
+      <li>Guyana</li>
+      <li>Haiti</li>
+      <li>Honduras</li>
+      <li>Hong Kong</li>
+      <li>Hungary</li>
+      <li>Iceland</li>
+      <li>India</li>
+      <li>Indonesia</li>
+      <li>Iraq</li>
+      <li>Ireland</li>
+      <li>Israel</li>
+      <li>Italy</li>
+      <li>Ivory Coast</li>
+      <li>Jamaica</li>
+      <li>Japan</li>
+      <li>Jordan</li>
+      <li>Kazakhstan</li>
+      <li>Kenya</li>
+      <li>Kiribati</li>
+      <li>Korea</li>
+      <li>Kosovo</li>
+      <li>Kuwait</li>
+      <li>Kyrghyz Republic</li>
+      <li>Laos</li>
+      <li>Latvia</li>
+      <li>Lebanon</li>
+      <li>Liberia</li>
+      <li>Libya</li>
+      <li>Liechtenstein</li>
+      <li>Lithuania</li>
+      <li>Luxembourg</li>
+      <li>Macau</li>
+      <li>Macedonia</li>
+      <li>Madagascar</li>
+      <li>Malawi</li>
+      <li>Malaysia</li>
+      <li>Maldives</li>
+      <li>Mali</li>
+      <li>Malta</li>
+      <li>Marshall Islands</li>
+      <li>Martinique</li>
+      <li>Mauritania</li>
+      <li>Mauritius</li>
+      <li>Mayotte</li>
+      <li>Mexico</li>
+      <li>Micronesia</li>
+      <li>Moldova</li>
+      <li>Monaco</li>
+      <li>Mongolia</li>
+      <li>Montenegro</li>
+      <li>Montserrat</li>
+      <li>Morocco</li>
+      <li>Mozambique</li>
+      <li>Namibia</li>
+      <li>Nepal</li>
+      <li>Netherlands</li>
+      <li>New Caledonia</li>
+      <li>New Zealand</li>
+      <li>Nicaragua</li>
+      <li>Niger</li>
+      <li>Nigeria</li>
+      <li>Niue</li>
+      <li>Northern Mariana Islands</li>
+      <li>Norway</li>
+      <li>Oman</li>
+      <li>Pakistan</li>
+      <li>Palau</li>
+      <li>Palestinian Authority</li>
+      <li>Panama</li>
+      <li>Papua New Guinea</li>
+      <li>Paraguay</li>
+      <li>Peru</li>
+      <li>Philippines</li>
+      <li>Poland</li>
+      <li>Portugal</li>
+      <li>Puerto Rico</li>
+      <li>Qatar</li>
+      <li>Republic of Nauru</li>
+      <li>Reunion</li>
+      <li>Romania</li>
+      <li>Russia</li>
+      <li>Rwanda</li>
+      <li>Saint Kitts and Nevis</li>
+      <li>Saint Lucia</li>
+      <li>Saint Martin</li>
+      <li>Saint Vincent and the Grenadines</li>
+      <li>Samoa</li>
+      <li>Saudi Arabia</li>
+      <li>Senegal</li>
+      <li>Serbia</li>
+      <li>Sierra Leone</li>
+      <li>Singapore</li>
+      <li>Slovakia</li>
+      <li>Slovenia</li>
+      <li>Solomon Islands</li>
+      <li>South Africa</li>
+      <li>Spain</li>
+      <li>Sri Lanka</li>
+      <li>Sudan</li>
+      <li>Suriname</li>
+      <li>Sweden</li>
+      <li>Switzerland</li>
+      <li>Syria</li>
+      <li>São Tomé and Príncipe</li>
+      <li>Taiwan</li>
+      <li>Tajikistan</li>
+      <li>Tanzania</li>
+      <li>Thailand</li>
+      <li>Timor-Leste</li>
+      <li>Togo</li>
+      <li>Tonga</li>
+      <li>Trinidad &amp; Tobago</li>
+      <li>Tunisia</li>
+      <li>Turkey</li>
+      <li>Turkmenistan</li>
+      <li>Turks and Caicos Islands</li>
+      <li>Tuvalu</li>
+      <li>Uganda</li>
+      <li>Ukraine</li>
+      <li>United Arab Emirates</li>
+      <li>United Kingdom</li>
+      <li>United States</li>
+      <li>United States Virgin Islands</li>
+      <li>Uruguay</li>
+      <li>Uzbekistan</li>
+      <li>Vanuatu</li>
+      <li>Venezuela</li>
+      <li class="selected">Vietnam</li>
+      <li>Yemen</li>
+      <li>Zambia</li>
+      <li>Zimbabwe</li>
+    </ul>
+  </div>
+</div>
+  <input type="hidden" name="onelanguageCode" id="onelanguageCode" value="en">
+</form>
+</div><!--  countrylangboilerplate page UI issue -->
+
+
+
+                      </div>
+               
+
+
+          </div>  
+        </div>
+        </div>
+
+      <!--END of Mobile Menu Panel-->
+    </nav>
+    <!--END of Navigation  -->
+  <!--Content Section Starts  -->
+
+
+
+      
+  
+   
+
+ 
+ <script>   
+    var dataCenter = "ci";
+    sessionStorage.setItem('DataCenter', dataCenter);
+    var sessionID = "web-641c1c07-5d0e-46e9-a028-63ccbb3fea0a";
+    sessionStorage.setItem('sessionID', sessionID);
+</script>
+    <input type="hidden" name="currentPage" value="https://www.westernunion.com/content/wucom/Countries/en_VN/home.html">
+  <section class="gray"> 
+  <div class="row">
+      <!--Find location Starts-->
+          <div class="small-12 large-4 columns floatRight">
+              
+
+
+
+
+
+
+
+
+
+                <!--Find location Starts-->
+                                <div class="send-money-online css3Style_ie">
+                                                <div class="yellow-band css3Style_ie">
+                                                  <p>Nhận tiền</p>
+
+                                </div>
+    <!--Find location Form Starts-->   
+    <form id="homeForm" class="custom app_form" method="GET" action="/receivemoney">
+        <input type="hidden" name="searchType" value="addr">
+        <input type="hidden" name="locale" value="en">
+
+                                <div class="row">
+                                                <div class="large-6 columns">
+                                                                <div class="row">
+                                                                                <div class="small-9 large-7 columns">
+                                                                                                <label class="app_label">
+                                                                                                                <span>Tôi muốn nhận tiền ở</span>                    
+
+                                                                                                </label>          
+                                                                                <!--Agent Country Selection-->
+                    <div class="custom dropdown">
+                                                                                <select class="app_select" name="receiverCountry" id="SMO_shoppingCountryTo" data-id="1550167291079-LiMVz">                
+
+                                                                                                  
+
+                                                                                
+                                                                                <option value="af">Afghanistan</option>
+
+                                                                                  
+
+                                                                                <option value="al">Albania</option>
+
+                                                                                  
+
+                                                                                <option value="dz">Algeria</option>
+
+                                                                                  
+
+                                                                                <option value="as">American Samoa</option>
+
+                                                                                  
+
+                                                                                <option value="ao">Angola</option>
+
+                                                                                  
+
+                                                                                <option value="ai">Anguilla</option>
+
+                                                                                  
+
+                                                                                <option value="ag">Antigua and Barbuda</option>
+
+                                                                                  
+
+                                                                                <option value="ar">Argentina</option>
+
+                                                                                  
+
+                                                                                <option value="am">Armenia</option>
+
+                                                                                  
+
+                                                                                <option value="aw">Aruba</option>
+
+                                                                                  
+
+                                                                                <option value="au">Australia</option>
+
+                                                                                  
+
+                                                                                <option value="at">Austria</option>
+
+                                                                                  
+
+                                                                                <option value="az">Azerbaijan</option>
+
+                                                                                  
+
+                                                                                <option value="bs">Bahamas</option>
+
+                                                                                  
+
+                                                                                <option value="bh">Bahrain</option>
+
+                                                                                  
+
+                                                                                <option value="bd">Bangladesh</option>
+
+                                                                                  
+
+                                                                                <option value="bb">Barbados</option>
+
+                                                                                  
+
+                                                                                <option value="by">Belarus</option>
+
+                                                                                  
+
+                                                                                <option value="be">Belgium</option>
+
+                                                                                  
+
+                                                                                <option value="bz">Belize</option>
+
+                                                                                  
+
+                                                                                <option value="bj">Benin</option>
+
+                                                                                  
+
+                                                                                <option value="bm">Bermuda</option>
+
+                                                                                  
+
+                                                                                <option value="bt">Bhutan</option>
+
+                                                                                  
+
+                                                                                <option value="bo">Bolivia</option>
+
+                                                                                  
+
+                                                                                <option value="ba">Bosnia &amp; Herzegovina</option>
+
+                                                                                  
+
+                                                                                <option value="bw">Botswana</option>
+
+                                                                                  
+
+                                                                                <option value="br">Brazil</option>
+
+                                                                                  
+
+                                                                                <option value="vg">British Virgin Islands</option>
+
+                                                                                  
+
+                                                                                <option value="bn">Brunei Darussalam</option>
+
+                                                                                  
+
+                                                                                <option value="bg">Bulgaria</option>
+
+                                                                                  
+
+                                                                                <option value="bf">Burkina Faso</option>
+
+                                                                                  
+
+                                                                                <option value="bi">Burundi</option>
+
+                                                                                  
+
+                                                                                <option value="kh">Cambodia</option>
+
+                                                                                  
+
+                                                                                <option value="cm">Cameroon</option>
+
+                                                                                  
+
+                                                                                <option value="ca">Canada</option>
+
+                                                                                  
+
+                                                                                <option value="cv">Cape Verde</option>
+
+                                                                                  
+
+                                                                                <option value="ky">Cayman Islands</option>
+
+                                                                                  
+
+                                                                                <option value="cf">Central African Republic</option>
+
+                                                                                  
+
+                                                                                <option value="td">Chad</option>
+
+                                                                                  
+
+                                                                                <option value="cl">Chile</option>
+
+                                                                                  
+
+                                                                                <option value="cn">China</option>
+
+                                                                                  
+
+                                                                                <option value="co">Colombia</option>
+
+                                                                                  
+
+                                                                                <option value="km">Comoros</option>
+
+                                                                                  
+
+                                                                                <option value="cg">Congo</option>
+
+                                                                                  
+
+                                                                                <option value="ck">Cook Islands</option>
+
+                                                                                  
+
+                                                                                <option value="cr">Costa Rica</option>
+
+                                                                                  
+
+                                                                                <option value="hr">Croatia</option>
+
+                                                                                  
+
+                                                                                <option value="cu">Cuba</option>
+
+                                                                                  
+
+                                                                                <option value="c1">Curacao</option>
+
+                                                                                  
+
+                                                                                <option value="cy">Cyprus</option>
+
+                                                                                  
+
+                                                                                <option value="c2">Cyprus (Northern)</option>
+
+                                                                                  
+
+                                                                                <option value="cz">Czech Republic</option>
+
+                                                                                  
+
+                                                                                <option value="cd">Dem Rep of Congo</option>
+
+                                                                                  
+
+                                                                                <option value="dk">Denmark</option>
+
+                                                                                  
+
+                                                                                <option value="dj">Djibouti</option>
+
+                                                                                  
+
+                                                                                <option value="dm">Dominica</option>
+
+                                                                                  
+
+                                                                                <option value="do">Dominican Republic</option>
+
+                                                                                  
+
+                                                                                <option value="ec">Ecuador</option>
+
+                                                                                  
+
+                                                                                <option value="eg">Egypt</option>
+
+                                                                                  
+
+                                                                                <option value="sv">El Salvador</option>
+
+                                                                                  
+
+                                                                                <option value="gq">Equatorial Guinea</option>
+
+                                                                                  
+
+                                                                                <option value="er">Eritrea</option>
+
+                                                                                  
+
+                                                                                <option value="ee">Estonia</option>
+
+                                                                                  
+
+                                                                                <option value="et">Ethiopia</option>
+
+                                                                                  
+
+                                                                                <option value="fk">Falkland Islands</option>
+
+                                                                                  
+
+                                                                                <option value="fj">Fiji</option>
+
+                                                                                  
+
+                                                                                <option value="fi">Finland</option>
+
+                                                                                  
+
+                                                                                <option value="fr">France</option>
+
+                                                                                  
+
+                                                                                <option value="gf">French Guiana</option>
+
+                                                                                  
+
+                                                                                <option value="pf">French Polynesia</option>
+
+                                                                                  
+
+                                                                                <option value="ga">Gabon</option>
+
+                                                                                  
+
+                                                                                <option value="gm">Gambia</option>
+
+                                                                                  
+
+                                                                                <option value="ge">Georgia</option>
+
+                                                                                  
+
+                                                                                <option value="de">Germany</option>
+
+                                                                                  
+
+                                                                                <option value="gh">Ghana</option>
+
+                                                                                  
+
+                                                                                <option value="gi">Gibraltar</option>
+
+                                                                                  
+
+                                                                                <option value="gr">Greece</option>
+
+                                                                                  
+
+                                                                                <option value="gd">Grenada</option>
+
+                                                                                  
+
+                                                                                <option value="gp">Guadeloupe</option>
+
+                                                                                  
+
+                                                                                <option value="gu">Guam</option>
+
+                                                                                  
+
+                                                                                <option value="gt">Guatemala</option>
+
+                                                                                  
+
+                                                                                <option value="gn">Guinea</option>
+
+                                                                                  
+
+                                                                                <option value="gw">Guinea-Bissau</option>
+
+                                                                                  
+
+                                                                                <option value="gy">Guyana</option>
+
+                                                                                  
+
+                                                                                <option value="ht">Haiti</option>
+
+                                                                                  
+
+                                                                                <option value="hn">Honduras</option>
+
+                                                                                  
+
+                                                                                <option value="hk">Hong Kong</option>
+
+                                                                                  
+
+                                                                                <option value="hu">Hungary</option>
+
+                                                                                  
+
+                                                                                <option value="is">Iceland</option>
+
+                                                                                  
+
+                                                                                <option value="in">India</option>
+
+                                                                                  
+
+                                                                                <option value="id">Indonesia</option>
+
+                                                                                  
+
+                                                                                <option value="iq">Iraq</option>
+
+                                                                                  
+
+                                                                                <option value="ie">Ireland</option>
+
+                                                                                  
+
+                                                                                <option value="il">Israel</option>
+
+                                                                                  
+
+                                                                                <option value="it">Italy</option>
+
+                                                                                  
+
+                                                                                <option value="ci">Ivory Coast</option>
+
+                                                                                  
+
+                                                                                <option value="jm">Jamaica</option>
+
+                                                                                  
+
+                                                                                <option value="jp">Japan</option>
+
+                                                                                  
+
+                                                                                <option value="jo">Jordan</option>
+
+                                                                                  
+
+                                                                                <option value="kz">Kazakhstan</option>
+
+                                                                                  
+
+                                                                                <option value="ke">Kenya</option>
+
+                                                                                  
+
+                                                                                <option value="ki">Kiribati</option>
+
+                                                                                  
+
+                                                                                <option value="kr">Korea</option>
+
+                                                                                  
+
+                                                                                <option value="k1">Kosovo</option>
+
+                                                                                  
+
+                                                                                <option value="kw">Kuwait</option>
+
+                                                                                  
+
+                                                                                <option value="kg">Kyrghyz Republic</option>
+
+                                                                                  
+
+                                                                                <option value="la">Laos</option>
+
+                                                                                  
+
+                                                                                <option value="lv">Latvia</option>
+
+                                                                                  
+
+                                                                                <option value="lb">Lebanon</option>
+
+                                                                                  
+
+                                                                                <option value="lr">Liberia</option>
+
+                                                                                  
+
+                                                                                <option value="ly">Libya</option>
+
+                                                                                  
+
+                                                                                <option value="li">Liechtenstein</option>
+
+                                                                                  
+
+                                                                                <option value="lt">Lithuania</option>
+
+                                                                                  
+
+                                                                                <option value="lu">Luxembourg</option>
+
+                                                                                  
+
+                                                                                <option value="mo">Macau</option>
+
+                                                                                  
+
+                                                                                <option value="mk">Macedonia</option>
+
+                                                                                  
+
+                                                                                <option value="mg">Madagascar</option>
+
+                                                                                  
+
+                                                                                <option value="mw">Malawi</option>
+
+                                                                                  
+
+                                                                                <option value="my">Malaysia</option>
+
+                                                                                  
+
+                                                                                <option value="mv">Maldives</option>
+
+                                                                                  
+
+                                                                                <option value="ml">Mali</option>
+
+                                                                                  
+
+                                                                                <option value="mt">Malta</option>
+
+                                                                                  
+
+                                                                                <option value="mh">Marshall Islands</option>
+
+                                                                                  
+
+                                                                                <option value="mq">Martinique</option>
+
+                                                                                  
+
+                                                                                <option value="mr">Mauritania</option>
+
+                                                                                  
+
+                                                                                <option value="mu">Mauritius</option>
+
+                                                                                  
+
+                                                                                <option value="yt">Mayotte</option>
+
+                                                                                  
+
+                                                                                <option value="mx">Mexico</option>
+
+                                                                                  
+
+                                                                                <option value="fm">Micronesia</option>
+
+                                                                                  
+
+                                                                                <option value="md">Moldova</option>
+
+                                                                                  
+
+                                                                                <option value="mc">Monaco</option>
+
+                                                                                  
+
+                                                                                <option value="mn">Mongolia</option>
+
+                                                                                  
+
+                                                                                <option value="me">Montenegro</option>
+
+                                                                                  
+
+                                                                                <option value="ms">Montserrat</option>
+
+                                                                                  
+
+                                                                                <option value="ma">Morocco</option>
+
+                                                                                  
+
+                                                                                <option value="mz">Mozambique</option>
+
+                                                                                  
+
+                                                                                <option value="na">Namibia</option>
+
+                                                                                  
+
+                                                                                <option value="np">Nepal</option>
+
+                                                                                  
+
+                                                                                <option value="nl">Netherlands</option>
+
+                                                                                  
+
+                                                                                <option value="nc">New Caledonia</option>
+
+                                                                                  
+
+                                                                                <option value="nz">New Zealand</option>
+
+                                                                                  
+
+                                                                                <option value="ni">Nicaragua</option>
+
+                                                                                  
+
+                                                                                <option value="ne">Niger</option>
+
+                                                                                  
+
+                                                                                <option value="ng">Nigeria</option>
+
+                                                                                  
+
+                                                                                <option value="nu">Niue</option>
+
+                                                                                  
+
+                                                                                <option value="mp">Northern Mariana Islands</option>
+
+                                                                                  
+
+                                                                                <option value="no">Norway</option>
+
+                                                                                  
+
+                                                                                <option value="om">Oman</option>
+
+                                                                                  
+
+                                                                                <option value="pk">Pakistan</option>
+
+                                                                                  
+
+                                                                                <option value="pw">Palau</option>
+
+                                                                                  
+
+                                                                                <option value="p1">Palestinian Authority</option>
+
+                                                                                  
+
+                                                                                <option value="pa">Panama</option>
+
+                                                                                  
+
+                                                                                <option value="pg">Papua New Guinea</option>
+
+                                                                                  
+
+                                                                                <option value="py">Paraguay</option>
+
+                                                                                  
+
+                                                                                <option value="pe">Peru</option>
+
+                                                                                  
+
+                                                                                <option value="ph">Philippines</option>
+
+                                                                                  
+
+                                                                                <option value="pl">Poland</option>
+
+                                                                                  
+
+                                                                                <option value="pt">Portugal</option>
+
+                                                                                  
+
+                                                                                <option value="pr">Puerto Rico</option>
+
+                                                                                  
+
+                                                                                <option value="qa">Qatar</option>
+
+                                                                                  
+
+                                                                                <option value="nr">Republic of Nauru</option>
+
+                                                                                  
+
+                                                                                <option value="re">Reunion</option>
+
+                                                                                  
+
+                                                                                <option value="ro">Romania</option>
+
+                                                                                  
+
+                                                                                <option value="ru">Russia</option>
+
+                                                                                  
+
+                                                                                <option value="rw">Rwanda</option>
+
+                                                                                  
+
+                                                                                <option value="kn">Saint Kitts and Nevis</option>
+
+                                                                                  
+
+                                                                                <option value="lc">Saint Lucia</option>
+
+                                                                                  
+
+                                                                                <option value="mf">Saint Martin</option>
+
+                                                                                  
+
+                                                                                <option value="vc">Saint Vincent and the Grenadines</option>
+
+                                                                                  
+
+                                                                                <option value="ws">Samoa</option>
+
+                                                                                  
+
+                                                                                <option value="sa">Saudi Arabia</option>
+
+                                                                                  
+
+                                                                                <option value="sn">Senegal</option>
+
+                                                                                  
+
+                                                                                <option value="rs">Serbia</option>
+
+                                                                                  
+
+                                                                                <option value="sl">Sierra Leone</option>
+
+                                                                                  
+
+                                                                                <option value="sg">Singapore</option>
+
+                                                                                  
+
+                                                                                <option value="sk">Slovakia</option>
+
+                                                                                  
+
+                                                                                <option value="si">Slovenia</option>
+
+                                                                                  
+
+                                                                                <option value="sb">Solomon Islands</option>
+
+                                                                                  
+
+                                                                                <option value="za">South Africa</option>
+
+                                                                                  
+
+                                                                                <option value="es">Spain</option>
+
+                                                                                  
+
+                                                                                <option value="lk">Sri Lanka</option>
+
+                                                                                  
+
+                                                                                <option value="sd">Sudan</option>
+
+                                                                                  
+
+                                                                                <option value="sr">Suriname</option>
+
+                                                                                  
+
+                                                                                <option value="se">Sweden</option>
+
+                                                                                  
+
+                                                                                <option value="ch">Switzerland</option>
+
+                                                                                  
+
+                                                                                <option value="sy">Syria</option>
+
+                                                                                  
+
+                                                                                <option value="st">São Tomé and Príncipe</option>
+
+                                                                                  
+
+                                                                                <option value="tw">Taiwan</option>
+
+                                                                                  
+
+                                                                                <option value="tj">Tajikistan</option>
+
+                                                                                  
+
+                                                                                <option value="tz">Tanzania</option>
+
+                                                                                  
+
+                                                                                <option value="th">Thailand</option>
+
+                                                                                  
+
+                                                                                <option value="tp">Timor-Leste</option>
+
+                                                                                  
+
+                                                                                <option value="tg">Togo</option>
+
+                                                                                  
+
+                                                                                <option value="to">Tonga</option>
+
+                                                                                  
+
+                                                                                <option value="tt">Trinidad &amp; Tobago</option>
+
+                                                                                  
+
+                                                                                <option value="tn">Tunisia</option>
+
+                                                                                  
+
+                                                                                <option value="tr">Turkey</option>
+
+                                                                                  
+
+                                                                                <option value="tm">Turkmenistan</option>
+
+                                                                                  
+
+                                                                                <option value="tc">Turks and Caicos Islands</option>
+
+                                                                                  
+
+                                                                                <option value="tv">Tuvalu</option>
+
+                                                                                  
+
+                                                                                <option value="ug">Uganda</option>
+
+                                                                                  
+
+                                                                                <option value="ua">Ukraine</option>
+
+                                                                                  
+
+                                                                                <option value="ae">United Arab Emirates</option>
+
+                                                                                  
+
+                                                                                <option value="gb">United Kingdom</option>
+
+                                                                                  
+
+                                                                                <option value="us">United States</option>
+
+                                                                                  
+
+                                                                                <option value="vi">United States Virgin Islands</option>
+
+                                                                                  
+
+                                                                                <option value="uy">Uruguay</option>
+
+                                                                                  
+
+                                                                                <option value="uz">Uzbekistan</option>
+
+                                                                                  
+
+                                                                                <option value="vu">Vanuatu</option>
+
+                                                                                  
+
+                                                                                <option value="ve">Venezuela</option>
+
+                                                                                  
+
+                                                                                <option value="vn">Vietnam</option>
+
+                                                                                  
+
+                                                                                <option value="ye">Yemen</option>
+
+                                                                                  
+
+                                                                                <option value="zm">Zambia</option>
+
+                                                                                  
+
+                                                                                <option value="zw">Zimbabwe</option>
+
+                                                                                  
+
+                                                                                </select>
+                        </div>
+                                                                                
+                                                                  <!--END of Agent Country Selection-->
+
+                                                                </div>
+                                                                <div class="small-5 large-5 columns">
+                                                                                <label class="app_label">
+                                                                                                <span>Mã nhận tiền:</span>
+                        <input class="app_input css3Style_ie" type="text" id="SMO_Postal" placeholder="Nhập mã..." name="searchAddr" maxlength="100">
+                                                                                  </label>
+                                                                </div> 
+           </div>
+        </div>            
+
+            <div class="large-6 columns">      
+              <div class="row">
+                <div class="small-7 columns large-6">
+
+                    <button type="submit" class="blue button app_input css3Style_ie">Nhận tiền</button>
+                  
+
+                </div>
+              </div>
+            </div>
+          </div>
+    </form>
+    <!--END of Find location Form-->
+    </div>
+
+             
+          </div>
+      <!--END of Find location--> 
+      <!--carousel starts-->
+      <div class="large-8 columns with-orbit-mobile">
+            
+
+
+
+
+
+
+
+
+
+        
+            
+            <div class="orbit-container"><div class="orbit-container"><ul class="app_ul" data-orbit="">
+
+            
+
+                
+                    
+                    
+                        
+                    
+                
+
+                
+                    
+                        <li class="slide"> <a title="" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233"><img src="https://www.westernunion.com/content/dam/wu/APAC/homepage/this-is-money-transfer-in-vietnam-hp1.jpg" alt=""></a></li>
+                    
+                    
+                
+
+                
+
+            </ul></div></div>
+                <div class="slidetabs">
+                <div class="tabsColor">
+                    
+                   </div>
+                </div>
+
+
+        
+
+        
+    
+
+
+
+
+
+
+
+      </div>
+    <!--END of carousel starts-->
+  </div>
+    </section>
+
+<!--Home benefits Section Starts-->
+<section class="home-benefits">
+  <div class="row">
+    <div class="small-12 columns">
+    <!--Promo items Starts-->
+        <div class="promo-marketing css3Style_ie">
+    
+
+
+
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        var oSlider2 = $('#slider2');
+        if(oSlider2.length > 0){
+        oSlider2.tinycarousel({ display: 3});
+    }
+        var maxPromo = 4;
+        var currPromo = "3";
+
+        if(maxPromo != currPromo){
+
+            $(".arrow.previous").hide();
+            $(".arrow.next").hide();
+        }
+    });
+</script>
+
+    <!--Promo items Starts-->
+    <ul class="app_ul" id="carousel_1">
+    
+        
+            
+
+
+                
+                    
+                        
+                        
+                    
+                    
+                
+
+
+                
+                    
+                        
+                        
+                    
+                    
+                
+
+
+                 
+                    
+                        
+                        
+                    
+                    
+                
+                
+                   
+                    <li style="width:33%">
+
+                    <p class="title">Gửi tiền</p>
+                    <p class="tagline">Chúng tôi liên kết với hơn 200 quốc gia và vùng lãnh thổ trên toàn thế giới. Bạn sẽ chỉ cần truy cập vào và xác nhận, còn lại đã có chúng tôi!</p>
+                    <p class="with-link"><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233" style="margin-top:4px;">Gửi tiền</a> </p>
+                    </li>
+
+                
+
+
+            
+
+
+                
+                    
+                        
+                        
+                    
+                    
+                
+
+
+                
+                    
+                        
+                        
+                    
+                    
+                
+
+
+                 
+                    
+                        
+                        
+                    
+                    
+                
+                
+                   
+                    <li style="width:33%">
+
+                    <p class="title">Nhận tiền</p>
+                    <p class="tagline">Bạn có thể nhận tiền ở bất kỳ đâu. Chỉ với tài khoản ngân hàng đã được đăng ký internet/mobile banking!</p>
+                    <p class="with-link"><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Nhận tiền</a> </p>
+                    </li>
+
+                
+
+
+            
+
+
+                
+                    
+                        
+                        
+                    
+                    
+                
+
+
+                
+                    
+                        
+                        
+                    
+                    
+                
+
+
+                 
+                    
+                        
+                        
+                    
+                    
+                
+                
+                   
+                    <li style="width:33%">
+
+                    <p class="title">Trở thành cộng tác viên của chúng tôi</p>
+                    <p class="tagline">Trở thành đại lý của chúng tôi bạn sẽ nhận được hoa hồng và nhiều lợi ích đặc biệt.</p>
+                    <p class="with-link"><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Thành đại lý.</a> </p>
+                    </li>
+
+                
+
+
+            
+
+      
+
+</ul>
+
+           <!--END of Promo items-->   
+        <span class="yellow-border css3Style_ie"></span>
+        <!--Promo items Controls-->
+       <!-- <div class="show-for-medium next-prev-arrows">
+          <div class="arrow previous"><a class="app_anch" id="arrow-previous" href="#" style="top: 54.5px;"></a></div>
+          <div class="arrow next"><a class="app_anch" id="arrow-next" href="#" style="top: 54.5px;"></a></div>
+        </div> -->
+        <!--END of Promo items Controls-->
+
+
+
+
+
+
+
+
+        </div>
+     <!--END of Promo items Controls-->
+    </div>
+  </div>
+</section>
+<!--END of Home benefits Section-->   
+
+
+    
+
+    
+        
+        
+
+ <footer class="app_footer">
+      <div class="row marginLeft">
+        <div class="small-11 columns small-centered large-12">
+
+         <div class="row">
+
+                <!--Footer Links Starts-->
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="large-4 columns footer-1">
+              <div class="row">
+                <!--Footer Links Starts-->
+                <div class="small-6 large-6 columns">
+                  <h6 class="app_h6">Chuyển tiền</h6>
+                  <ul class="footer-links app_ul">
+                     
+                        
+                             
+                  
+                        
+                         
+                            
+                                 <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Gửi tiền</a></li>
+                            
+                         
+                            
+                         
+                        
+                    
+                
+                    
+                 
+                             
+                  
+                        
+                         
+                            
+                         
+                            
+                                 <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Nhận tiền</a></li>
+                            
+                         
+                        
+                    
+                
+                    
+                 
+            
+                  </ul>
+                </div>
+
+                <div class="small-6 large-6 columns">
+                  <h6 class="app_h6">Công cụ</h6>
+                  <ul class="footer-links app_ul">
+                    
+                
+                   
+                    
+                    
+                    
+                        
+                            <li><a class="app_anch" href="/receivemoney?searchType=addr&locale=en&receiverCountry=vn&searchAddr=ASSJ3233">Tìm giao dịch</a></li>
+                        
+                    
+                        
+                    
+                        
+                        
+                    
+                    
+                 
+                   
+                    
+                    
+                    
+                        
+                    
+                        
+                        
+                    
+                        
+                        
+                    
+                    
+                 
+            
+                  </ul>
+                </div>
+             
+              </div>
+            </div>
+
+     
+    
+
+    
+       
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            
+
+            
+            
+
+
+                <!--END ofFooter Links-->
+            <div class="large-3 columns footer-3">
+              <div class="row">
+                <div class="small-12  large-12 columns">
+                   <!-- Social Media Starts--> 
+                  <div class="Social-media overflowHid">   
+         <!-- 
+
+
+
+
+               
+               
+                
+        
+            
+            
+            
+            
+            
+               <div class ="google">
+               
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+        <g:plusone size="medium" href="http://www.westernunion.com"></g:plusone>
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+               </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+               <div class ="facebook">
+               <script> (function(d, s, id) {       var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </script><div id="fb-root"></div><div class="fb-like" data-href="http://www.facebook.com/WesternUnion" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-font="arial"></div>
+
+               </div>
+            
+            
+            
+            
+            
+
+      
+
+                
+      
+        
+ -->
+      </div>
+                  <!-- END ofSocial Media -->
+                  <!--Signup Box-->
+                   
+
+      
+
+
+    
+
+
+
+                  <!--END of Signup Box-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Copyright information-->
+             <!-- END of Site Map Links  -->   
+   
+       
+ 
+ 
+
+       
+        <div class="row borderTop">
+        <div class="small-12 large-12 columns rowLeftpad-0">
+         
+        
+            <div class="copyright"><p>© 2014 Western Union Holdings, Inc. All rights reserved.</p>
+</div>
+        
+        
+
+        </div>
+      </div>
+        <div class="row all-links"> 
+      <div class="small-12 large-12 columns">
+
+</div>
+</div>
+
+ 
+
+     
+
+        </footer>
+
+<!-- GLOBAL PROPERTIES -->
+<script>
+
+        window.sessionStorage.setItem("jcr:content", "{'sling:resourceType':'westernunion-internationalization/components/pages/rawpage'}");
+        
+        window.sessionStorage.setItem("activeVersion", "{'assetVersion':'2.0.2.45868952','configVersion':'1.6.2.cf750cbd','contentVersion':'wonderwoman'}");
+        
+        window.sessionStorage.setItem("sendMoneyDefaults", "{'ALL':'0'}");
+        
+        window.sessionStorage.setItem("switches", "{'StatesRequiredRetailFeeInquiry':'price-estimator,sendmoneyoption','CountriesWithTypeaheadSearchDisabled':'N','decode':'true','encode':'false','GTDV3EnabledCountries':'US,GB,US-KROGER','nudata':'false','pwmbPayment':'true','PriceQuoteCountryList':'GB,MY,RU,IN','isFMASDQ':'true','allowExchangeRateLightbox':'true','isSTARSAPIEnabled':'true','CountriesWithRetailCustomerProfileCallDisabled':'US','pricingPartnerId':'R3WEB9Z00','siftScience':'true','RetailSMVDelayForDocUpload':'15000','threatMetrix':'true','hideMIMBanksIFSC':'true','countryListForDigitalNameChange':'US','countryListForNameChange':'US','multipleSpaces':'true','countryListForCancel':'','countryListForFMASDQ':'GB,FR,DE,IT,MT,LV,LT,AT,IE','ReceiverNameFormatChangeEnabled':'true','CountriesForCollectIdNonIntlSubmit':'US,GB,CA,MY,FR,DE,HK','isIATEnabled':'true','countryListForRetailCancel':'US','PerformanceHorizonAPIEnabled':'enabled','countryListForIAT':'US,CA,MX,TH,BR','dtmTags':'true','pareschar':'+'}");
+        
+        window.sessionStorage.setItem("tags_PROD", "{");
+        
+        window.sessionStorage.setItem("footer", "{");
+        
+        window.sessionStorage.setItem("load", "{");
+        
+        window.sessionStorage.setItem("loadcall", "{");
+        
+        window.sessionStorage.setItem("ntsite", "{");
+        
+        window.sessionStorage.setItem("wubotconfig", "{'blueskyappid':'564447527070062','isNameMatchingEnabled':'TRUE','blueskypageid':'124186682456','isDesktopEnabled':'TRUE'}");
+        
+        window.sessionStorage.setItem("env", "{'name':'PROD','countries':'INVALID'}");
+        
+        window.sessionStorage.setItem("header", "{");
+        
+</script>
+<script type="text/javascript"> _satellite.pageBottom();</script>
+<script> var gaId=''; var locref=location.href.toUpperCase(); if (locref.indexOf('/RU/')!=-1) gaId='UA-82113578-1'; if (locref.indexOf('/UA/')!=-1) gaId='UA-82113578-2'; if (locref.indexOf('/AE/')!=-1) gaId='UA-82113578-3'; if (locref.indexOf('/KW/')!=-1) gaId='UA-82113578-4'; if (locref.indexOf('/BH/')!=-1) gaId='UA-82113578-7'; if (gaId!='') { (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() { (i[r].q=i[r].q||[]).push(arguments)} ,i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', gaId, 'auto'); ga('send', 'pageview'); } </script> <!-- Google Tag Manager --> <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PSDTHJ7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script> var locref=location.href.toUpperCase(); if (locref.indexOf('/RU/')Unable to render embedded object: File (=-1 ) not found.=-1 || locref.indexOf('/AE/')!=-1){ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push( {'gtm.start': new Date().getTime(),event:'gtm.js'} );var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PSDTHJ7');}</script>
+
+ 
+        
+
+    <!--ls:end[body]-->
+
+
+
+
+    <script>
+      $(document).ready(function() { 
+        
+      $(document).foundation();
+      $('.invisible').removeClass('invisible');
+        setTimeout(function() {
+          $(".custom.dropdown.app_select").children('a')[2].innerHTML = "Vietnam"
+        }, 1000);
+      });
+    </script>
+    <div class="cloudservices servicecomponents">
+</div>
+
+
+</body></html>
